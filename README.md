@@ -1,2 +1,0 @@
-# chatNode
-Created with CodeSandbox

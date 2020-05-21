@@ -1,0 +1,22 @@
+body {
+  background-color: #5f9ea0 !important;
+}
+
+/*view message*/
+#content-view {
+  height: 90vh;
+  overflow: hidden !important;
+}
+
+/*message*/
+#formM {
+  left: 0;
+  bottom: 0;
+}
+.new-message {
+  padding: 0.8em !important;
+  margin-top: 10px;
+  text-align: center;
+  border-radius: 05px;
+  width: auto;
+}
